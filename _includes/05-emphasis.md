@@ -1,1 +1,2 @@
-Write out some of your awesome attributes, and use emphasis (like bold or italics) to identify keywords, programming languages, or skills. 
+## About me
+I am an agricultural engineer. My programming skills include: **Python** and **Matlab**... I guess I know *Markdown* now. I enjoy using **Python** on a Raspberry Pi. 
