@@ -1,1 +1,2 @@
-Replace this with your name, and include a header.
+# Welcome
+Hello, my name is Alex McLemore
